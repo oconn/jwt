@@ -1,0 +1,7 @@
+.#*
+*~
+\#*
+__MACOSX
+.DS_Store
+*.sw[pio]
+node_modules
