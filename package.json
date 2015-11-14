@@ -1,18 +1,26 @@
 {
   "name": "jwt",
   "version": "0.0.1",
-  "description": "Express JWT Authenication",
+  "description": "NodeJS JSON Web Token Library",
   "main": "index.js",
+  "dependencies": {
+    "jws": "^3.1.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oconn/jwt.git"
+  },
   "keywords": [
-    "JWT",
-    "Express"
+    "JWT"
   ],
   "author": "Matt O'Connell <matthew.j.oconnell1@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "jws": "^3.1.0"
-  }
+  "bugs": {
+    "url": "https://github.com/oconn/jwt/issues"
+  },
+  "homepage": "https://github.com/oconn/jwt#readme"
 }
