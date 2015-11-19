@@ -4,7 +4,7 @@
 
 Utilizes [JWS](https://github.com/brianloveswords/node-jws) to sign and verify tokens.
 
-JWS supported algorithms [Readme](https://github.com/brianloveswords/node-jws/blob/master/readme.md#jwsalgorithms)
+JWS supported algorithms [README](https://github.com/brianloveswords/node-jws/blob/master/readme.md#jwsalgorithms)
 
 alg Parameter Value | Digital Signature or MAC Algorithm
 ----------------|----------------------------
